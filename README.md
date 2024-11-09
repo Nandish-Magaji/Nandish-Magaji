@@ -43,6 +43,7 @@ You may notice that this guy has addressed almost **Every Top Domain's** for run
 **Congratulations on making it this far!** Thank you for taking the time to read up to this point! :) ❤️
 
 I have my CV ready! If you find me useful just ping me via _Email_ or a _LinkedIn_ message.
+Or find my CV on my [Portfolio's](https://nandish-magaji.github.io/NandishMs-portfolio/) About-section.
 
 
 Email: nandishmagaji0@gmail.com | 
