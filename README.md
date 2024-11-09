@@ -36,14 +36,15 @@ My current focus is on **.Net Angular Full-Stack**. I also want to learn **AI & 
 </details>
 
 
-You may notice that this guy has addressed almost **Every Top Domain's** for running Applications, But I deeply believe that one should have enough _knowledge_ for maintaining in hard times like emergencies to deal with each domain _flexibly!_ Which _may not_ be useful for _Top Companies_, but small firms get an **All-rounder Valuable Asset** to accomplish any _urgent Deadlines_, etc.
+You may notice that this guy has addressed almost **Every Top Domain's** for running Applications, But I deeply believe that one should have enough _knowledge_ and knowledge is all matters while dealing with each domain _flexibly!_ 
 
 **My approach to learning** is to practice consistently, stay motivated, seek inspiration, revise what I learn, and stay up-to-date with the latest technologies for effective problem-solving!
 
 **Congratulations on making it this far!** Thank you for taking the time to read up to this point! :) ❤️
 
 I have my CV ready! If you find me useful just ping me via _Email_ or a _LinkedIn_ message.
-Or find my CV on my [Portfolio's](https://nandish-magaji.github.io/NandishMs-portfolio/) About-section.
+
+Else find my CV on my [Portfolio's](https://nandish-magaji.github.io/NandishMs-portfolio/) About-section.
 
 
 Email: nandishmagaji0@gmail.com | 
