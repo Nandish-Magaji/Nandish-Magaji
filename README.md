@@ -1,51 +1,20 @@
 # About
-A dedicated .NET And Angular FullStack Developer with a passion for solving complex problems and continuously expanding my technical expertise.
+A Prompt Engineer and Applied Generative AI Practitioner with a strong foundation in Computer Science, passionate about designing effective prompts, understanding LLM behavior, and improving human–AI interactions through experimentation and research.
 
 Hello There!👋🏻 
 **Nandish** here!
 
-I have pursued my **Bachelor of Computer Applications** degree from **Bengaluru City University!**
-My belief is to _adapt_ and _excel_ in every domain, embracing _multitasking_ to streamline operations and reduce staffing costs. I envision myself as a valuable asset to any organization.
-I am deeply committed to the attainment of my goals and objectives.
+I hold a **Bachelor of Computer Applications** degree from **Bengaluru City University**. I believe in the ability to _adapt_, _learn continuously_, and _apply knowledge practically across evolving technology domains_. My goal is to contribute meaningful value by building _reliable_, _accurate_, and _user-aligned AI systems_.
 
-I'm on the way to attaining advanced concepts! And Soon will get into it..
+I am deeply committed to **Prompt Engineering, Generative AI, and Large Language Models (LLMs)**, with a strong interest in applying _AI research concepts_ to _real-world_ use cases. I actively experiment with _prompts, reasoning techniques, and AI workflows_ to enhance _model accuracy, contextual understanding, and decision-making quality_.
 
-My current focus is on **.Net Angular Full-Stack**. I also want to learn **AI & ML** by integrating them into my _Full-Stack Journey_, **Cloud Computing**, And one **Automation Testing Tool** for Efficiency-Check! 
+I believe that effective AI systems are built not just on models, but on clear instructions, thoughtful design, and continuous evaluation.
 
-<details>
-<summary>Languages</summary>
-  JavaScript,
-  C#,
-  TypeScript,
-  C,
-  Java,
-  Python.
-</details>
-
-<details>
-<summary>Frameworks</summary>
-  Angular.
-</details>
-
-<details>
-<summary>Databases</summary>
-  Basic -
-    MySQL,
-    Postgres SQL,
-    Microsoft SQL Server.
-</details>
-
-
-You may notice that this guy has addressed almost **Every Top Domain's** for running Applications, But I deeply believe that one should have enough _knowledge_ and knowledge is all matters while dealing with each domain _flexibly!_ 
-
-**My approach to learning** is to practice consistently, stay motivated, seek inspiration, revise what I learn, and stay up-to-date with the latest technologies for effective problem-solving!
+You may notice that I value depth of understanding over surface-level exposure. I strongly believe that real expertise comes from hands-on experimentation, critical thinking, and continuous refinement, especially when working with AI systems.
 
 **Congratulations on making it this far!** Thank you for taking the time to read up to this point! :) ❤️
 
-I have my CV ready! If you find me useful just ping me via _Email_ or a _LinkedIn_ message.
-
-Else find my CV on my [Portfolio's](https://nandish-magaji.github.io/NandishMs-portfolio/) About-section.
-
+I have my CV ready. If you feel my profile aligns with your needs, feel free to reach out via **Email** or **LinkedIn**.
 
 Email: nandishmagaji0@gmail.com | 
 LinkedIn: https://www.linkedin.com/in/nandish-magaji/
