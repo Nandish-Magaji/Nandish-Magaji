@@ -2,6 +2,7 @@
 A Prompt Engineer and Applied Generative AI Practitioner with a strong foundation in Computer Science, passionate about designing effective prompts, understanding LLM behavior, and improving human–AI interactions through experimentation and research.
 
 Hello There!👋🏻
+
 **Nandish** here!
 
 I hold a **Bachelor of Computer Applications** degree from **Bengaluru City University**. I believe in the ability to _adapt_, _learn continuously_, and _apply knowledge practically across evolving technology domains_. My goal is to contribute meaningful value by building _reliable_, _accurate_, and _user-aligned AI systems_.
