@@ -24,11 +24,11 @@ I build and evaluate LLM systems: multi-agent RAG pipelines, prompt workflows, a
 Four Google ADK agents (Researcher, Writer, Fact-Checker, Editor) research, draft, fact-check, and revise documents behind a human approval gate. RAG with Gemini embeddings and ChromaDB gives cited, grounded answers. FastAPI + JWT/OAuth2, Docker, Kubernetes (Minikube), GitHub Actions CI.
 `Python · FastAPI · Google ADK · Gemini 2.5 Flash · ChromaDB · MCP · React · Docker · Kubernetes`
 
-### [ATS Alignr](REPO_LINK)https://github.com/Nandish-Magaji/ATS-Alignr
+### [ATS Alignr](REPO_LINK)]https://github.com/Nandish-Magaji/ATS-Alignr
 Multi-agent resume-to-JD alignment (Parser, Matcher, Rewriter, Verifier) with anti-hallucination guardrails: keywords are added only where real experience supports them, and every rewrite is verified against the original. Matcher evaluated on a hand-labeled test set with LangSmith tracing ([X]% accuracy).
 `Python · LangChain · Gemini 2.5 Flash · LangSmith · MCP · FastAPI · React · Docker`
 
-### [AI Study Planner Pro](REPO_LINK)https://github.com/Nandish-Magaji/AI-Study-Planner
+### [AI Study Planner Pro](REPO_LINK)]https://github.com/Nandish-Magaji/AI-Study-Planner
 LLM assistant that generates study plans, lesson plans, quizzes, and flashcards with Llama 3.x on Groq. Modular LangChain prompt workflows, session-state management, PDF/Markdown export.
 `Python · LangChain · Groq · Llama 3.x · Streamlit`
 
