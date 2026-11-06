@@ -1,21 +1,52 @@
-# About
-A Prompt Engineer and Applied Generative AI Practitioner with a strong foundation in Computer Science, passionate about designing effective prompts, understanding LLM behavior, and improving human–AI interactions through experimentation and research.
+# Hi, I'm Nandish 👋
 
-Hello There!👋🏻
+**GenAI / LLM Engineer · Prompt Engineer · LLM Evaluation** | Bengaluru, India
 
-**Nandish** here!
+I build and evaluate LLM systems: multi-agent RAG pipelines, prompt workflows, and guardrails that reduce hallucinations. 1.5+ years evaluating agentic AI systems at Keywords Studios, plus three end-to-end GenAI projects built on my own.
 
-I hold a **Bachelor of Computer Applications** degree from **Bengaluru City University**. I believe in the ability to _adapt_, _learn continuously_, and _apply knowledge practically across evolving technology domains_. My goal is to contribute meaningful value by building _reliable_, _accurate_, and _user-aligned AI systems_.
+> Effective AI systems are built not just on models, but on clear instructions, thoughtful design, and continuous evaluation.
 
-I am deeply committed to **Prompt Engineering, Generative AI, and Large Language Models (LLMs)**, with a strong interest in applying _AI research concepts_ to _real-world_ use cases. I actively experiment with _prompts, reasoning techniques, and AI workflows_ to enhance _model accuracy, contextual understanding, and decision-making quality_.
+📬 **Open to:** AI Engineer · GenAI Engineer · LLM Engineer · Prompt Engineer · LLM Evaluator roles (Bengaluru / remote)
 
-I believe that effective AI systems are built not just on models, but on clear instructions, thoughtful design, and continuous evaluation.
+---
 
-You may notice that I value depth of understanding over surface-level exposure. I strongly believe that real expertise comes from hands-on experimentation, critical thinking, and continuous refinement, especially when working with AI systems.
+## 🔭 What I work on
 
-**Congratulations on making it this far!** Thank you for taking the time to read up to this point! :) ❤️
+- **LLM evaluation:** benchmarking, rubric-based evaluation, error analysis, hallucination detection, model behavior analysis
+- **Prompt & context engineering:** few-shot, zero-shot, Chain-of-Thought, prompt optimization
+- **RAG:** embeddings, vector search, cited and grounded retrieval
+- **Agentic AI:** multi-agent orchestration, MCP tool integration, human-in-the-loop guardrails
+- **GenAI backends:** secure FastAPI services shipped with Docker, Kubernetes, and CI
 
-I have my CV ready. If you feel my profile aligns with your needs, feel free to reach out via **Email** or **LinkedIn**.
+## 🚀 Featured projects
 
-Email: nandishmagaji0@gmail.com | 
-LinkedIn: https://www.linkedin.com/in/nandish-magaji/
+### [Enterprise Multi-Agent RAG Assistant][(REPO_LINK)](https://github.com/Nandish-Magaji/Enterprise-Multi-Agent-RAG-Assistant)
+Four Google ADK agents (Researcher, Writer, Fact-Checker, Editor) research, draft, fact-check, and revise documents behind a human approval gate. RAG with Gemini embeddings and ChromaDB gives cited, grounded answers. FastAPI + JWT/OAuth2, Docker, Kubernetes (Minikube), GitHub Actions CI.
+`Python · FastAPI · Google ADK · Gemini 2.5 Flash · ChromaDB · MCP · React · Docker · Kubernetes`
+
+### [ATS Alignr](REPO_LINK)https://github.com/Nandish-Magaji/ATS-Alignr
+Multi-agent resume-to-JD alignment (Parser, Matcher, Rewriter, Verifier) with anti-hallucination guardrails: keywords are added only where real experience supports them, and every rewrite is verified against the original. Matcher evaluated on a hand-labeled test set with LangSmith tracing ([X]% accuracy).
+`Python · LangChain · Gemini 2.5 Flash · LangSmith · MCP · FastAPI · React · Docker`
+
+### [AI Study Planner Pro](REPO_LINK)https://github.com/Nandish-Magaji/AI-Study-Planner
+LLM assistant that generates study plans, lesson plans, quizzes, and flashcards with Llama 3.x on Groq. Modular LangChain prompt workflows, session-state management, PDF/Markdown export.
+`Python · LangChain · Groq · Llama 3.x · Streamlit`
+
+## 🧰 Tech stack
+
+**LLM & GenAI:** Prompt Engineering · LLM Evaluation · RAG · LangChain · Google ADK · MCP · LangSmith
+**Models:** Gemini 2.5 Flash · Llama 3.x · Groq
+**Backend:** Python · FastAPI · SQL/SQLite · REST · OpenAPI/Swagger · JWT/OAuth2
+**Data:** ChromaDB · Embeddings · Vector Search
+**Frontend:** React · Next.js · TypeScript · Streamlit
+**DevOps:** Docker · Kubernetes (Minikube) · GitHub Actions · Git
+
+## 🏆 Highlights
+
+- Star Performer Award (twice) at Keywords Studios for exceeding AI evaluation quality benchmarks
+- Claude 101 certified (Anthropic Academy); currently studying Model Context Protocol and Agent Skills & Subagents
+- BCA, Bengaluru City University (CGPA 9.49)
+
+## 📫 Let's connect
+
+📧 nandishmagaji0@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/nandish-magaji/) · 🌐 [Portfolio](https://nandish-ms-portfolio.vercel.app/)
