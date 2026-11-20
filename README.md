@@ -2,7 +2,7 @@
 
 **GenAI / LLM Engineer · Prompt Engineer · LLM Evaluation** | Bengaluru, India
 
-I build and evaluate LLM systems: multi-agent RAG pipelines, prompt workflows, and guardrails that reduce hallucinations. 1.5+ years evaluating agentic AI systems at Keywords Studios, plus three end-to-end GenAI projects built on my own.
+I build and evaluate LLM systems: multi-agent RAG pipelines, prompt workflows, and guardrails that cut hallucinations. 2+ years in AI and software work, including 1.5+ years evaluating agentic AI at Keywords Studios, plus three end-to-end GenAI projects (Google ADK, LangChain, MCP, FastAPI) built on my own.
 
 > Effective AI systems are built not just on models, but on clear instructions, thoughtful design, and continuous evaluation.
 
